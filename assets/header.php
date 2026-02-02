@@ -13,5 +13,6 @@
             <a href="index.php">Home</a>
             <a href="simpleinterest.php">Simple Interest</a>
             <a href="">Compound Interest</a>
+            <a href="loanCalculator.php">Loan Calculator</a>
         </nav>
     </header>
